@@ -1,0 +1,28 @@
+{
+  "name": "reactd3js",
+  "description": "Follow the book reactd3js",
+  "main": "index.js",
+  "authors": [
+    "CSong"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "reactjs",
+    "d3js"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.15",
+    "react": "^0.14.7",
+    "bootstrap": "^3.3.6",
+    "lodash": "^4.3.0"
+  }
+}
